@@ -61,11 +61,11 @@
 #6?
 
 #7
-list = ['red', 'yellow', 'grey', 'black', 'white']
-maximum=max(len(elem)for elem in list) #((elem for elem in list), key = len)
-minimum=min((elem for elem in list), key = len)
-print(f"Наибольший элемент из списка: {maximum}")
-print(f"Наименьший элемент из списка: {minimum} ")
+# list = ['red', 'yellow', 'grey', 'black', 'white']
+# maximum=max((elem for elem in list), key = len)
+# minimum=min((elem for elem in list), key = len)
+# print(f"Наибольший элемент из списка: {maximum}")
+# print(f"Наименьший элемент из списка: {minimum} ")
 
 #8
 # list = ['красный', 'белый', 'черный', 'белый', 'желтый', 'красный', 'серый', 'белый']
